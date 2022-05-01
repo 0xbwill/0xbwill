@@ -19,7 +19,10 @@ const william = {
         devOps: ["DigitalOcean"],
         databases: ["MySQL"],
     },
-    currentFocus: "React.js"
+    currentFocus: {
+	back: ["Laravel"],
+	front: ["React.js"],
+	}
 };
 ```
 

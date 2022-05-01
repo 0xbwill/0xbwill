@@ -23,8 +23,6 @@ const william = {
 };
 ```
 
-<a href="https://app.daily.dev/0xbwill"><img src="https://api.daily.dev/devcards/fc7075dd637a4a9286e59a0684523ec3.png?r=j4d" width="400" alt="William's Dev Card"/></a>
-
 ## 🛠️ Mes compétences
 
 ### 👉 Front-end
