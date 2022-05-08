@@ -16,7 +16,7 @@ const william = {
         backEnd: {
             php: ["Laravel"],
         },
-        devOps: ["DigitalOcean"],
+        devOps: ["Docker","DigitalOcean"],
         databases: ["MySQL"],
     },
     currentFocus: {
@@ -74,6 +74,8 @@ const william = {
 ### 👉 Bases de données & Hébergement
 
 <p align="left">
+&emsp;
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
