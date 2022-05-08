@@ -77,14 +77,12 @@ const william = {
 &emsp;
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></a>
 &emsp; 
- <a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/digitalocean_button_icon_151900.png" style="width:100px"></a>
-  
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
-  &emsp;
-    
+<a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/digitalocean_button_icon_151900.png" style="width:100px"></a>
+&emsp;
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+&emsp;
+<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+&emsp;
 </p>
 
 ### 👉 Design Graphique

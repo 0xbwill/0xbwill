@@ -3,26 +3,25 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=constant+learning&center=true&width=500&height=50"></a>
 </p>
 
-### <img src='https://c.tenor.com/4g2CTdIpMdAAAAAi/mario-mario-dancing.gif'> A propos de moi...  
-
+### <img src='https://c.tenor.com/4g2CTdIpMdAAAAAi/mario-mario-dancing.gif'> A propos de moi...
 
 ```javascript
 const william = {
-    pronouns: "He" | "Him",
-    country: "France",
-    code: ["HTML", "CSS", "Laravel", "Vue.js", "React.js"],
-    askMeAbout: ["WebDev","Boxing", "Tech", "Bodybuilding"],
-    technologies: {
-        backEnd: {
-            php: ["Laravel"],
-        },
-        devOps: ["Docker","DigitalOcean"],
-        databases: ["MySQL"],
+  pronouns: "He" | "Him",
+  country: "France",
+  code: ["HTML", "CSS", "Laravel", "Vue.js", "React.js"],
+  askMeAbout: ["WebDev", "Boxing", "Tech", "Bodybuilding"],
+  technologies: {
+    backEnd: {
+      php: ["Laravel"],
     },
-    currentFocus: {
-	back: ["Laravel"],
-	front: ["React.js"],
-	}
+    devOps: ["Docker", "DigitalOcean"],
+    databases: ["MySQL"],
+  },
+  currentFocus: {
+    back: ["Laravel"],
+    front: ["React.js"],
+  },
 };
 ```
 
@@ -59,6 +58,7 @@ const william = {
 </p>
 
 ### 👉 Back-end
+
 <p align="left"> 
 &emsp;
   <a href="https://laravel.com/" target="_blank"> 
@@ -76,16 +76,19 @@ const william = {
 <p align="left">
 &emsp;
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></a>
+&emsp; 
+ <a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/digitalocean_button_icon_151900.png" style="width:100px"></a>
+  
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.digitalocean.com/"><img alt="DigitalOcean" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/digitalocean_button_icon_151900.png" style="width:100px"></a>
-  &emsp;
+    
 </p>
 
 ### 👉 Design Graphique
+
 <p align="left">
   &emsp; 
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"> 
