@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=constant+learning&center=true&width=500&height=50"></a>
 </p>
 
-### <img src='https://c.tenor.com/4g2CTdIpMdAAAAAi/mario-mario-dancing.gif'> A propos de moi...
+### <img src='https://c.tenor.com/4g2CTdIpMdAAAAAi/mario-mario-dancing.gif'> About myself...
 
 ```javascript
 const william = {
@@ -25,7 +25,7 @@ const william = {
 };
 ```
 
-## 🛠️ Mes compétences
+## 🛠️ My skills
 
 ### 👉 Front-end
 
@@ -85,7 +85,7 @@ const william = {
 &emsp;
 </p>
 
-### 👉 Design Graphique
+### 👉 Graphic Design
 
 <p align="left">
   &emsp; 
@@ -99,7 +99,7 @@ const william = {
 &emsp; 
  </p>
 
-### 👉 Logiciels & Outils
+### 👉 Software & Tools
 
 <p>
   &emsp;
