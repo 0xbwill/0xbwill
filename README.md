@@ -41,7 +41,7 @@ const william = {
 
 ### 👉 Graphic Design
 
-<p align="left"> &emsp; <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> </a> &emsp; <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-00C9FF?style=flat&logo=adobe%20photoshop&logoColor=white"/> </a> &emsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> </a> </p>
+<p> &emsp; <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> </a> &emsp; <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-00C9FF?style=flat&logo=adobe%20photoshop&logoColor=white"/> </a> &emsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> </a> </p>
 
 ### 👉 Software & Tools
 
