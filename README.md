@@ -33,7 +33,7 @@ const william = {
 
 ### 👉 Back-end
 
-<p align="left"> &emsp; <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/> </a> &emsp; <a href="https://symfony.com/" target="_blank"> <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white"/> </a> &emsp; <a href="https://www.php.net/" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> </a> </p>
+<p align="left"> &emsp; <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/> </a> &emsp; <a href="https://www.php.net/" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> </a> </p>
 
 ### 👉 Database & DevOps
 
