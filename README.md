@@ -11,12 +11,12 @@ const william = {
   askMeAbout: ["Sports", "Tech", "Books", "FPV Drone"],
   technologies: {
     frameworks: {
-      php: ["Laravel", "Symfony"],
+      php: ["Laravel"],
     },
-    devOps: ["DigitalOcean", "Docker", "Virtual Machines"],
-    databases: ["MySQL", "SQLite"],
+    devOps: ["DigitalOcean", "Docker", "Linux"],
+    databases: ["MySQL", "SQLite", "MongoDB"],
     cms: ["Drupal", "Wordpress"],
-    design: ["Figma"]
+    design: ["Figma", "TailwindCSS", "Sass", "daisyUI"]
   },
   currentFocus: {
     framework: ["Laravel"]
