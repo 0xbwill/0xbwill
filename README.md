@@ -8,18 +8,19 @@
 ```javascript
 const william = {
   code: ["HTML", "JavaScript", "SCSS", "PHP"],
-  askMeAbout: ["Sports", "Tech", "Books", "FPV Drone"],
+  ide: ["Cursor"],
+  askMeAbout: ["Sports", "Tech", "Books", "FPV", "Motorbikes"],
   technologies: {
     frameworks: {
       php: ["Laravel"],
     },
-    devOps: ["DigitalOcean", "Docker", "Linux"],
+    devOps: ["Docker", "Linux", "Proxmox PE/BS"],
     databases: ["MySQL", "SQLite", "MongoDB"],
     cms: ["Drupal", "Wordpress"],
     design: ["Figma", "TailwindCSS", "Sass", "daisyUI"]
   },
   currentFocus: {
-    framework: ["Laravel"]
+    framework: ["Laravel", "Docker"]
   },
 };
 
